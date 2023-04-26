@@ -24,11 +24,14 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 <details open>
   <summary>uitwerken na schetsen idee (voor week 2)</summary>
+  Mijn idee is om het logo van Dyson te gaan animeren. Dyson is een electronica bedrijf met producten zoals: stofzuigers, handdrogers, Föhns(met opzetstukken), luchtreinigers e.d. Wind is het eerste waar je aan denkt bij dit soort producten. Ik heb dus wind verwerkt in mijn schetsidee. 
+![image](https://user-images.githubusercontent.com/90218478/234434382-767420f6-5546-4dcf-871f-31407234fa27.png)
 
 
   ### Je storyboard:
   <img src="readme-images/dummy-plaatje.svg" width="375px" alt="storyboard voor opdracht 1">
-
+Als je over het merk hoovert, komt er een wind te voorschijn. Die wind blaast de letters allemaal naar beneden. Er is wel een verschil in timing want de ene letter gaat verder weg naar beneden dan het andere letter. Misschien kan de animatie nog een föhn geluidje hebben of mischien kunnen de letter een soort van opgedroogd effect krijgen. Dit ga ik nog verder bedenken.
+![image](https://user-images.githubusercontent.com/90218478/234434514-af445312-a6e7-4070-9b9e-3e707ed87723.png)
 
   ### Je ambitie: 
   Aan deze technieken/punten wil ik werken:
